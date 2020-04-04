@@ -1,0 +1,289 @@
+
+/*--------------------------------------------------Colors*/
+.green-1{ 
+  color: #38B31A;
+}
+
+.green-2{
+  color: #38B31A;
+}
+
+h3 {
+  color:#38B31A;
+}
+
+.green-about {
+  color:#38B31A;
+}  
+
+.green-text {
+  background-color: #38B31A;
+}
+
+.orange-text {
+  background-color: #FF8000;
+}
+
+
+/*--------------------------------------------------Navs*/
+
+.navbar-light a:hover {
+  opacity: 0.7;
+  position:relative;
+  z-index: 1;
+  color:#FFFFFF;
+}
+.navbar-light ul li a:hover {
+  display: inline-block;
+  background-color: #38B31A;
+  transition: 1.2s;
+  border: 2px #38B31A;
+  border-radius: 3.5px;
+}
+
+.nav-item active {
+  margin: 3px;
+  padding:5px;
+  
+
+}
+
+.navbar-nav > li{
+  padding-left:0px;
+  padding-right:92px;
+}
+
+
+/*-----------------------------------------Media*/
+@media screen and (min-width: 601px) {
+h3  {
+    font-size: 30px;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+h3 {
+    font-size: 25px;
+  }
+}
+
+
+
+@media screen and (min-width: 601px) {
+p  {
+    font-size: 20px;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+p {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 601px) {
+.green-about  {
+    font-size: 25px;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+.green-about {
+    font-size: 22px;
+  }
+}
+
+
+@media screen and (min-width: 601px) {
+.green-2  {
+    font-size: 29px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+.green-2 {
+    font-size: 23px;
+  }
+}
+
+
+@media screen and (min-width: 601px) {
+.green-1  {
+    font-size: 40px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+.green-1 {
+    font-size: 32px;
+  }
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+
+.general-sub {font-size: 20px}
+
+}
+
+@media screen and (min-width: 801px) and (max-width: 800px) {
+
+.img-responsive {
+  max-height: 160px;
+  max-width: 250px;
+  }
+}
+
+
+@media screen and (max-width: 800px) {
+
+.img-responsive {
+  min-height: 5px;
+  min-width: 200px;}
+}
+
+
+
+/*-----------------------------------------Images*/
+
+img {
+position: relative;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+}
+
+img:hover
+{
+    z-index:2;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);  
+    -moz-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 240px;
+}
+
+.img-responsive {
+  min-height: 200px;
+  max-height: 580px;
+}
+
+
+/*--------------------------------------------------Footer*/
+footer {
+    background-color: #A5A5A5;
+    color:#fafafa;
+    min-height:147px;
+    margin: 0;
+    position: inherit;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    line-height: 15px;
+}
+
+.fa:hover {
+  opacity: 0.8;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+  width: 45px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+  width: 45px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-pinterest {
+  background: #B92303;
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+  width: 45px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-instagram {
+  background: #F78181;
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+  width: 45px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-youtube {
+  background: #FF1B00;
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+  width: 45px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/*-----------------------------------------Others*/
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.embed-responsive {
+  margin: 10px;
+}
+
+
+.font-style {
+  font-family: serif
+}
+
+.text-type {
+  font-style: italic
+}
+
+
+.about-us {
+  margin-top: 20px
+}
+
+#map {
+  height:400px;
+  width :100%;
+}
