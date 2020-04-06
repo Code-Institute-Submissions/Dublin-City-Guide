@@ -5,6 +5,24 @@ tastes are in the one map for you. Find out locations, prices, ratings and worki
 everyone who wants to have a great time in Dublin!
 
 <h3>UX</h3>
+For my website, the target audience was defined as people visiting Dublin from all over the world and with different backgrounds. 
+Basically, I identified the user persona as middle-income young adults motivated to have a good time during their visit. User goals are:
+<p>-Saving time</p>
+<p>-Saving money</p> 
+<p>-Gathering information about the city</p>
+
+In short; having the ideal Dublin experience during their visit. 
+
+The first part of designing the UX, I've started with the research. 
+After a little research of competitive websites, I've listed and categorized top 4 type of places that the users visit; hotels, restaurants, pubs and touristic. 
+
+The problem with the competitors is, lack of the critical information that the users actually need and being too disorganized. Yet, they do not provide information about local pubs/restaurants. Lastly, hotels are not provided in these websites. 
+
+The problem here trying to be solved is providing the most important details about the places such as name, price, working hours, rate, and phone while the users are viewing those places on map. So users won't need too many different sources to plan their visit. So the users can achieve their goals; having an organized list of information about every type of places they might visit in just one hand. 
+
+The map is tried to be highlighted because it was created to be the main thing that provides solution to users. Below that, it is supported with the videos and contact details at the bottom to make sure to reduce every question marks.
+
+I tried to make the website simple, clear and organized to make it easy to use for everyone. 
 
 <h3>Features</h3>
 <h4>Existing Features</h4>
