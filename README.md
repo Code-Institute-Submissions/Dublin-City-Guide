@@ -7,9 +7,9 @@ everyone who wants to have a great time in Dublin!
 <h3>UX</h3>
 For my website, the target audience was defined as people visiting Dublin from all over the world and with different backgrounds. 
 Basically, I identified the user persona as middle-income young adults motivated to have a good time during their visit. User goals are:
--Saving time
--Saving money 
--Gathering information about the city
+<p>-Saving time</p>
+<p>-Saving money</p> 
+<p>-Gathering information about the city</p>
 
 In short; having the ideal Dublin experience during their visit. 
 
